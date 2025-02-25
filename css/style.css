@@ -613,16 +613,8 @@ body::-webkit-scrollbar {
     }
 }
 
-@import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
+@import "//at.alicdn.com/t/c/font_4838442_aks9i1lacy.css";
 
-.iconfont {
-    font-family: "iconfont" !important;
-    /* 这里可以自定义图标大小 */
-    font-size: 3em;
-    font-style: normal;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
 
 svg.icon {
     width: 1.28em;
